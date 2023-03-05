@@ -1,0 +1,17 @@
+.emoji {
+  background-color: #ffffff57;
+  list-style-type: none;
+  border-radius: 8px;
+  padding: 25px;
+  border: 1px solid #ffffff30;
+  margin: 8px;
+  cursor: pointer;
+}
+.emoji-img {
+  width: 60px;
+}
+.emoji-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
